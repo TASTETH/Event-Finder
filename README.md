@@ -1,1 +1,2 @@
-# android
+# Event Finder
+Поиск мероприятий
