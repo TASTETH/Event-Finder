@@ -1,0 +1,2 @@
+-keep class com.yandex.** { *; }
+-dontwarn com.yandex.**
